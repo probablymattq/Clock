@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="digitalclock">Clock</string>
+    <string name="date">Date</string>
+</resources>
